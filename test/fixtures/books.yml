@@ -1,14 +1,14 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  namestring: MyString
+  name: MyString
   author: MyString
   description: MyText
   price: 1
   availability: false
 
 two:
-  namestring: MyString
+  name: MyString
   author: MyString
   description: MyText
   price: 1
